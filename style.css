@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Colors:  #087f5b ;
+              #343a40; */
+
+body {
+  font-family: "Inter" sans-serif;
+  color: #343a40;
+  line-height: 1;
+}
+
+img {
+  height: 200px;
+}
+
+.carousel {
+  background-color: #087f5b;
+  width: 800px;
+  padding: 32px;
+  margin: 100px auto;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.testimonial-text {
+}
+
+.testimonial-author {
+}
+
+.testimonial-job {
+}
